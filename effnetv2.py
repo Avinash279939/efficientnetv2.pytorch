@@ -6,12 +6,12 @@ arXiv preprint arXiv:2104.00298.
 import from https://github.com/d-li14/mobilenetv2.pytorch
 """
 
-import torch.nn as nn
+#import torch.nn as nn
 import math
 
 __all__ = ['effnetv2_s']
 
-
+#i want to chanege
 def _make_divisible(v, divisor, min_value=None):
     """
     This function is taken from the original tf repo.
